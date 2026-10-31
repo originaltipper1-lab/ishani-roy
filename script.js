@@ -1,6 +1,6 @@
 (() => {
   const button = document.getElementById('tgRedirectBtn');
-  const totalSeconds = 10;
+  const totalSeconds = 3;
   const countdownSec = document.getElementById('countdownSec');
   const countdownText = document.getElementById('countdownText');
   const timerCircle = document.getElementById('timerCircle');
